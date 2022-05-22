@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200&family=Roboto+Slab:wght@100&display=swap");
+
+@import url("components/container.css")
+
+body {
+	font-family: 'Roboto+Slab',sans-serif ;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: 'Plus+Jakarta+Sans' sans-serif;
+	font-weight: bold;
+}
